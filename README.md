@@ -14,6 +14,7 @@ Syntactic Post-Processing: Ensures output code validity, particularly for strict
 
 Live Interactive UI: A Gradio-based web application deployed on Hugging Face Spaces for real-time testing.
 
+
 📂 Repository Structure
 
 data/
@@ -39,6 +40,8 @@ rouge_comparison_chart.png (RCA performance visualization)
 app.py (Source code for the Hugging Face Space Gradio app)
 
 requirements.txt (Python dependencies)
+
+
 
 📊 Evaluation Results
 
@@ -83,6 +86,7 @@ Local Installation
 Clone the repo:
 
 git clone https://github.com/maherghanem86/Code-Llama-RCA.git
+
 cd Code-Llama-RCA
 
 
