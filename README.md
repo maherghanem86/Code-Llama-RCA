@@ -108,3 +108,5 @@ Model Adapters: maherghanem86/BlueprintFix
 
 Training Dataset: maherghanem86/bug-docs-dataset
 
+Space Interface: https://huggingface.co/spaces/maherghanem86/BlueprintFix
+
