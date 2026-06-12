@@ -104,9 +104,11 @@ python app.py
 
 🔗 Project Assets on Hugging Face
 
-Model Adapters: maherghanem86/BlueprintFix
+Model Adapters: [maherghanem86/BlueprintFix
+](https://huggingface.co/maherghanem86/BlueprintFix)
 
-Training Dataset: maherghanem86/bug-docs-dataset
+Training Dataset: [maherghanem86/bug-docs-dataset](https://huggingface.co/datasets/maherghanem86/bug-docs-dataset)
+
 
 Space Interface: https://huggingface.co/spaces/maherghanem86/BlueprintFix
 
